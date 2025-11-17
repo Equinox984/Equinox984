@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Django, and SQL to build fullstack projects.**
 
-- ☁️ I have a keen interest in cloud computing. So,I'm planning to learn **AWS** too.
+- ☁️ I have a keen interest in cloud computing. So, I'm planning to learn **AWS** too.
 
 - 📫 Feel free to reach me out **lopezkris984@proton.me**
 
