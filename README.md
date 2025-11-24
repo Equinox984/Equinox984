@@ -1,18 +1,19 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Equinox</h1></summary>
-  </ul>
+    <ul>
+        <summary>
+            <h1>Hi 👋, I'm Equinox</h1>
+        </summary>
+    </ul>
 </div>
-
 
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">“He who has a why to live for can bear almost any how." -Friedrich Nietzsche</h2></summary>
   </ul>
 </div>
