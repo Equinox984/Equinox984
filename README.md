@@ -22,7 +22,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, HTML, CSS, and Linux.**
 
-- 🌱 I’m currently learning **JavaScript, Django, and SQL to build fullstack projects.**
+- 🌱 I’m currently learning **Python and C.**
 
 - ☁️ I have a keen interest in cloud computing. So, I'm planning to learn **AWS** too.
 
