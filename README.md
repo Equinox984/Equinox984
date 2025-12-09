@@ -3,7 +3,7 @@
 <div id="user-content-toc">
     <ul>
         <summary>
-            <h1>Hi 👋, I'm Equinox</h1>
+            <h1>Hi 👋, I'm Equinøx</h1>
         </summary>
     </ul>
 </div>
