@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,arch,debian,redhat,github,git,html,css,py,c,vscode,neovim,obsidian&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,arch,debian,redhat,github,gitlab,git,html,css,py,c,vscode,neovim,obsidian&perline=14" />
   </a>
 </p>
 
