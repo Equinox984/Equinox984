@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **Python, HTML, CSS, and Linux**
 - 🌱 I'm currently learning **Python and C**
-- ☁️ I have a keen interest in cloud computing. Planning to learn **AWS** too
+
 
 ## Technologies That I Know 👨🏻‍💻
 
