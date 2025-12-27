@@ -28,12 +28,6 @@
 
 ---
 
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Equinox984&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=onedark"/>
 </p>
