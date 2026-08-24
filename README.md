@@ -2,12 +2,10 @@
 
 ---
 
-## "He who has a why to live for can bear almost any how." -Friedrich Nietzsche
 
 ## About Me
 
-- 🔭 I'm currently working on **Python, HTML, CSS, and Linux**
-- 🌱 I'm currently learning **Python and C**
+Driven by curiosity and continuous learning. Currently building with **Python, HTML, CSS, and Linux**, while expanding my low-level systems knowledge with **C**.
 
 
 ## Technologies That I Know 👨🏻‍💻
