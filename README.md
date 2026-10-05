@@ -8,7 +8,7 @@
 Driven by curiosity and continuous learning. Currently building with **Python, HTML, CSS, and Linux**, while expanding my low-level systems knowledge with **C**.
 
 
-## Technologies That I Know 👨🏻‍💻
+## Technologies 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Driven by curiosity and continuous learning. Currently building with **Python, H
   </a>
 </p>
 
-## Connect With Me 🤝
+## Connect With Me 
 
 <p align="center">
   <a href="https://www.instagram.com/equinox.rog/" target="blank">
