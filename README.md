@@ -1,4 +1,4 @@
-# Hi , I'm Equinøx 👋
+# Hi , I'm Kristopher 👋
 
 ---
 
