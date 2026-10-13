@@ -5,7 +5,7 @@
 
 ## About Me
 
-Currently building with **Python, HTML, and CSS**, customizing my Linux setup, and getting into **data analysis**.
+Currently building with **Python, HTML, and CSS**, customizing my **Linux*** setup, and getting into **data analysis**.
 
 
 ## Technologies 
