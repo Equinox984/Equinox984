@@ -5,7 +5,7 @@
 
 ## About Me
 
-Driven by curiosity and continuous learning. Currently building with **Python, HTML, CSS, and Linux**, while expanding my low-level systems knowledge with **C**.
+Currently building with **Python, HTML, and CSS**, customizing my Linux setup, and getting into **data analysis**.
 
 
 ## Technologies 
