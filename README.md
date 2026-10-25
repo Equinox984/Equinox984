@@ -12,7 +12,7 @@ Currently building with **Python, HTML, and CSS**, customizing my **Linux** setu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,arch,debian,redhat,git,github,gitlab,html,css,js,py,postgres,sqlite,latex&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,nixos,arch,debian,redhat,git,github,gitlab,html,css,js,py,postgres,sqlite,latex&perline=14" />
   </a>
 </p>
 
